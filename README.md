@@ -44,7 +44,7 @@ A complete **Serverless Log Monitoring Solution** built using **AWS Lambda, Dyna
 ##  Project Screenshots
 
 ### 1. CloudWatch Log Groups
-![CloudWatch Log Groups](./screenshots/cloudwatch-loggroup.png
+![CloudWatch Log Groups](./screenshots/cloudwatch-loggroup.png)
 *Two log groups created: LogAnalysisProcessor and test-app*
 
 ### 2. DynamoDB Tables
